@@ -1,0 +1,33 @@
+#home{height: 800px;}
+.heading{
+    font-size: 1.5rem;
+}
+#pic img{
+    width: 100px;
+    height:100px;
+}
+#intro h2,h3{
+    font-size:1.2rem
+}
+.gallery img{
+    width:250px;
+    height: 150px;
+    transition: 1s ease;
+}
+.gallery img:hover{
+    width:275px;
+    height: 175px;
+}
+#contact h2{
+    font-size: 1rem;
+}
+.container img{
+    width: 30px;
+    height: 30px;
+}
+#intro p,li{
+font-size: 15px;
+}
+.navbar ul li{
+    font-size: 12px;
+}
